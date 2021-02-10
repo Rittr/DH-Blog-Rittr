@@ -1,10 +1,8 @@
 # Six Degrees of Francis Bacon
 
-## Project Director
-Christopher Warren
+**Project Director:** Christopher Warren
 
-## Project URL
-http://sixdegreesoffrancisbacon.com/
+**Project URL:** http://sixdegreesoffrancisbacon.com/
 
 How many degrees of bacon? at least 6
 
