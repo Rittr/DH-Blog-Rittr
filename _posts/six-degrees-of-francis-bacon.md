@@ -1,5 +1,11 @@
 # Six Degrees of Francis Bacon
 
+## Project Director
+Christopher Warren
+
+## Project URL
+http://sixdegreesoffrancisbacon.com/
+
 How many degrees of bacon? at least 6
 
 ![A graph of several orange circles connected by curved black and gray lines. The larger circles have names attached to them, and the name on the largest circle is 'Francis Bacon'](https://rittr.github.io/DH-Blog-Rittr/images/bacon-graph.png)
