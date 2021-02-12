@@ -1,5 +1,3 @@
-# Six Degrees of Francis Bacon
-
 **Project Director:** Christopher Warren
 
 **Project URL:** http://sixdegreesoffrancisbacon.com/
