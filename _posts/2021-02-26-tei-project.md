@@ -4,7 +4,7 @@
 
 TEI is good
 
-![](https://rittr.github.io/DH-Blog-Rittr/images/bacon-concentric.png)
+![](https://rittr.github.io/DH-Blog-Rittr/images/tei-code.png)
 
 ### introduction
 
