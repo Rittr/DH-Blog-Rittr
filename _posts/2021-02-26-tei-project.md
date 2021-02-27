@@ -19,7 +19,7 @@ Before actually encoding the text, I had to get familiar with it. The
 
 ### Oxygen 2x
 
-two
+Once the text had been annotated, it was time to start coding it into TEI. Before I had started editing the Google Doc, I copied and pasted the text into the "body" section of a blank TEI manuscript file. I did it this way to avoid leaving extra comments I could forget to remove later. In retrospect, I think it would have been better to copy and paste one line or paragraph at a time, as I still had to search for things I was missing.
 
 ![A screenshot of XML/TEI code. It is a section of "The Yellow Wallpaper", with some bits of code throughout it](https://rittr.github.io/DH-Blog-Rittr/images/tei-code.png)
 
