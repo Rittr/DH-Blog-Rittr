@@ -1,6 +1,6 @@
 # TEI
 
-The Yellow Wallpaper is a story about mental illness. 
+The Yellow Wallpaper is a story about mental illness and rest for a woman in the late 1800s. This week, we had the opportunity as a class to work on a DH project transcribing this text into TEI. I was assigned a section of text from page 12 to page 15 in the original transcript, and I was able to transcribe it with little trouble.
 
 ![A screenshot of an edited Google Doc. It has passages from several pages of "The Yellow Wallpaper", with blue hyperlinks to the page above each passage](https://rittr.github.io/DH-Blog-Rittr/images/tei-markup.png)
 
@@ -14,4 +14,4 @@ Once the text was annotated, it was time to start coding it into TEI. Before I h
 
 ![A screenshot of XML/TEI code. It is a section of "The Yellow Wallpaper", with some bits of code throughout it](https://rittr.github.io/DH-Blog-Rittr/images/tei-code.png)
 
-The rest of the process was straightforward, as I had clear instructions and good guidelines to make sure I had marked everything that I needed to. I really enjoyed this assignment, it was interesting and it helped me wet my feet in XML/TEI code. Part of me wishes I had a more complicated part to code, but then again, this was perfect. I got a very balanced set of features to code in.
+The rest of the process was straightforward, as I had clear instructions and good guidelines to make sure I had marked everything that I needed to. I have plenty of experience with code, so this process was easy for me to grasp. I really enjoyed this assignment, it was interesting and it helped me wet my feet in XML/TEI code. Part of me wishes I had a more complicated part to code, but then again, this was perfect. I got a very balanced set of features to code in.
