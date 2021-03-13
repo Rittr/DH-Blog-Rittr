@@ -18,7 +18,7 @@ https://store.steampowered.com/app/1165850/IL_DIVINO_Michelangelos_Sistine_Ceili
 
 IL DIVINO is a virtual reality experience that lets you see the ceiling of the Sistine Chapel up close. It lets you see the chapel from different perspectives, such as the scaffolds it was painted from. It includes a guided tour that will highlight different parts of the room and tell the stories of each of them. This VR experience allows you to see the ceiling from views that few people have ever seen in real life. The project shows Michelangelo's personal experience in painting the chapel's ceiling. It also tells the story of what is being shown in each painting.
 
-![ALT TEXT HERE](https://rittr.github.io/DH-Blog-Rittr/images/il-divino.gif)
+![ALT TEXT HERE](https://rittr.github.io/DH-Blog-Rittr/images/il-divino.png)
 
 ## Purpose and Technology
 
