@@ -10,9 +10,9 @@ Chris Evans
 
 ### Project URL:
 
-http://www.sistinevr.com/ (project website)
+[http://www.sistinevr.com/](http://www.sistinevr.com/) (project website)
 
-https://store.steampowered.com/app/1165850/IL_DIVINO_Michelangelos_Sistine_Ceiling_in_VR/?beta=0 (project download)
+[https://store.steampowered.com/app/1165850/IL_DIVINO_Michelangelos_Sistine_Ceiling_in_VR/?beta=0](https://store.steampowered.com/app/1165850/IL_DIVINO_Michelangelos_Sistine_Ceiling_in_VR/?beta=0) (project download)
 
 ## What is it?
 
