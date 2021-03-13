@@ -1,3 +1,5 @@
+# IL DIVINO: Sistine Ceiling VR - DH review
+
 ### Project:
 
 IL DIVINO: Sistine Ceiling VR
@@ -12,7 +14,7 @@ http://www.sistinevr.com/ (project website)
 
 https://store.steampowered.com/app/1165850/IL_DIVINO_Michelangelos_Sistine_Ceiling_in_VR/?beta=0 (project download)
 
-## -Brief Summary
+## What is it?
 
 IL DIVINO is a virtual reality experience that lets you see the ceiling of the Sistine Chapel up close. It lets you see the chapel from different perspectives, such as the scaffolds it was painted from. It includes a guided tour that will highlight different parts of the room and tell the stories of each of them. This VR experience allows you to see the ceiling from views that few people have ever seen in real life. The project shows Michelangelo's personal experience in painting the chapel's ceiling. It also tells the story of what is being shown in each painting.
 
@@ -22,11 +24,11 @@ There are two main stories that this project covers:  the story told by the art 
 
 The guided tour starts by explaining many of the difficulties that Michelangelo faced as he worked in the chapel. Later on, it gives you the option to stand on the same scaffolds that he worked from. Here you see the process that he went through as he was painting, as well as a letter describing his challenges.
 
-The nature of Virtual Reality makes this experience of the Sistine Chapel incredibly interactive. The project requires a PC VR headset and a decent computer to run it.
+The nature of Virtual Reality makes this experience of the Sistine Chapel very immersive. The project requires a PC VR headset and a decent computer to run it, but it does make full use of the medium. VR allows you to get a much better sense of scale and depth than looking at a picture. The art follows along with the curves and shape of the ceiling, so the definitive way to enjoy it is in 3D. 
 
 IL DIVINO was made using the Unreal Engine - the same game engine behind Fortnite and many of the visuals in The Mandalorian.
 
-## -Identify interesting, outstanding or problematic issues
+## The Issues
 
 The guidance of the tour was well designed, and it was easy to learn about any specific detail on the ceiling. The most glaring issues I encountered were more technical. For example, whenever a certain section was being talked about in the narration, one or more spotlights would shine on the part in question. Sometimes these spotlights would cause stuttering in the video, which can cause serious discomfort in VR.\*
 
@@ -34,7 +36,7 @@ Another disappointing issue was the lack of any options or settings menu. Althou
 
 Another issue was that the cherry picker that can be used to see the art up close can only move freely in one half of the chapel. The 'basket' of the cherry picker is clearly connected to the rest of the machine, and the other half of the chapel is separated by a half-wall. While I understand this decision to protect the realism, I am disappointed that only half the paintings can be observed up close.
 
-These nitpicks really are just that, though. IL DIVINO is one of the best ways to experience and learn about the Sistine chapel. It does things that would be impossible in real life, like showing the scaffolding that Michelangelo himself used.
+These are only nitpicks, though. IL DIVINO is definitely the best ways to experience and learn about the Sistine chapel. It does things that would be impossible in real life, and without any crowds or travel. I would highly recommend that anyone try it if they get the chance. I look forward to seeing if the team continues to work with VR in the future.
 
 ![ALT TEXT HERE](https://rittr.github.io/DH-Blog-Rittr/images/mystery-text.png)
 
