@@ -44,4 +44,5 @@ Another issue was that the cherry picker that can be used to see the art up clos
 
 These are only nitpicks, though. IL DIVINO is definitely the best ways to experience and learn about the Sistine chapel. It does things that would be impossible in real life, and without any crowds or travel. I would highly recommend that anyone try it if they get the chance. I look forward to seeing if the team continues to work with VR in the future.
 
-\*I think this stuttering was caused by using dynamic lights instead of baked lighting; something that's easier to set up but very performance intensive.
+
+\*I think this stuttering was caused by using dynamic lights instead of baked lighting; dynamic lights are easier to set up but very performance intensive.
