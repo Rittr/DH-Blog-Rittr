@@ -1,5 +1,3 @@
-# IL DIVINO: Sistine Ceiling VR - DH review
-
 ### Project:
 
 IL DIVINO: Sistine Ceiling VR
@@ -16,11 +14,15 @@ https://store.steampowered.com/app/1165850/IL_DIVINO_Michelangelos_Sistine_Ceili
 
 ## -Brief Summary
 
-IL DIVINO is a virtual reality experience that lets you see the ceiling of the Sistine Chapel up close. It lets you see the chapel from different perspectives, such as the scaffolds it was painted from. It includes a guided tour that will highlight different parts of the room and tell the stories of each of them. This VR experience allows you to see the ceiling from views that few people have ever seen in real life.
+IL DIVINO is a virtual reality experience that lets you see the ceiling of the Sistine Chapel up close. It lets you see the chapel from different perspectives, such as the scaffolds it was painted from. It includes a guided tour that will highlight different parts of the room and tell the stories of each of them. This VR experience allows you to see the ceiling from views that few people have ever seen in real life. The project shows Michelangelo's personal experience in painting the chapel's ceiling. It also tells the story of what is being shown in each painting.
 
 ## -Assess Humanistic claims and technology
 
-The nature of Virtual Reality makes this experience of the Sistine Chapel incredibly interactive.
+There are two main stories that this project covers:  the story told by the art and the story of the artist. Once the guided tour ends, you are free to point at any section of the wall or ceiling and hear an explanation of it. After the first explanation, you can choose the same piece again for more details. As a section is being explained by the narration, a spotlight will shine on any part that is being mentioned. 
+
+The guided tour starts by explaining many of the difficulties that Michelangelo faced as he worked in the chapel. Later on, it gives you the option to stand on the same scaffolds that he worked from. Here you see the process that he went through as he was painting, as well as a letter describing his challenges.
+
+The nature of Virtual Reality makes this experience of the Sistine Chapel incredibly interactive. The project requires a PC VR headset and a decent computer to run it.
 
 IL DIVINO was made using the Unreal Engine - the same game engine behind Fortnite and many of the visuals in The Mandalorian.
 
