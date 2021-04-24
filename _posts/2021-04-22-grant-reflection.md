@@ -19,3 +19,9 @@ I have a whole page of notes from what we talked about there, but to me the most
 Virtual art galleries are not a new idea, (most of the research I found about it was conducted between 1990 and 2005!) and there are a lot out there that already are great, for example, a tour of a virtual gallery of Vincent Van Gogh's art (which you can find [here](https://vrallart.com/vr-exhibitions/em/vincent_van_gogh/)), but they all fall short of what I wanted to do. For example, very few are truly in Virtual Reality. And many of them, VR or not, don't take advantage of being digital.
 
 ![A gif of walking around a virtual art exhibit in first person, like in a video game](https://rittr.github.io/DH-Blog-Rittr/images/gogh-tour2.gif)
+
+For example, in the gallery shown above, it basically mimics a normal art gallery that you still have to walk around and use in the same way. I determined that the best way to take advantange of VR in a project like this was to make it interactive: make the paintings come to you, sort through them dynamically, be able to manipulate them like the computers in _Minority Report_, etc.
+
+Anyway, this all led me to having these two cornerstones for my project: interactivity and scale. Once I got that figured out, the rest of the work was surprisingly straightforward (thanks to the help of all the peer reviews, too!) I enjoyed the research and learning process I went through for this project, as well as throughout this whole class. As I said on Twitter, there is are a lot of useful skills and tools I've learned about in this class that I will definitely be going back to use in the future!
+
+I remember being confused about what Digital Humanities actually was when this class first started. I still feel like it might take me a bit to explain exactly what it is, but I have a much better grasp on it now, and I hope that this is just the start of my experience with it!
