@@ -18,4 +18,4 @@ I have a whole page of notes from what we talked about there, but to me the most
 
 Virtual art galleries are not a new idea, (most of the research I found about it was conducted between 1990 and 2005!) and there are a lot out there that already are great, for example, a tour of a virtual gallery of Vincent Van Gogh's art (which you can find [here](https://vrallart.com/vr-exhibitions/em/vincent_van_gogh/)), but they all fall short of what I wanted to do. For example, very few are truly in Virtual Reality. And many of them, VR or not, don't take advantage of being digital.
 
-![A gif of walking around a virtual art exhibit in first person, like in a video game](https://rittr.github.io/DH-Blog-Rittr/images/gogh-tour.gif)
+![A gif of walking around a virtual art exhibit in first person, like in a video game](https://rittr.github.io/DH-Blog-Rittr/images/gogh-tour2.gif)
