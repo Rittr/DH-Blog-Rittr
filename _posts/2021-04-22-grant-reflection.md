@@ -15,3 +15,7 @@ Even with the rest of the project being amazing, this size comparison is the par
 The idea was to make a sort of "Virtual Art Gallery" that would show you several well known artworks in their true size and proportions, to help give more perspective into how these paintings actually look in real life. It was a very bare-bones plan with a lot of gaps to fill in, but the meeting with Dr. Stover is where it first really started to take shape.
 
 I have a whole page of notes from what we talked about there, but to me the most important takeaway was this: don't just make it VR to make it VR, have a reason why it _has_ to be in VR. This really made me lean into some of what I was talking about above more, and with this (and some other more logistical things) in mind I started fleshing out my project idea as I did some research.
+
+Virtual art galleries are not a new idea, (most of the research I found about it was conducted between 1990 and 2005!) and there are a lot out there that already are great, for example, a tour of a virtual gallery of Vincent Van Gogh's art (which you can find [here](https://vrallart.com/vr-exhibitions/em/vincent_van_gogh/)), but they all fall short of what I wanted to do. For example, very few are truly in Virtual Reality. And many of them, VR or not, don't take advantage of being digital.
+
+![A gif of walking around a virtual art exhibit in first person, like in a video game](https://rittr.github.io/DH-Blog-Rittr/images/gogh-tour.gif)
